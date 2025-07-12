@@ -1,0 +1,17 @@
+*.o
+*.blend1
+r.png
+atari/rocket.syn
+atari/final.tos
+atari/sync.tos
+atari/wip.tos
+tasks.json
+atari/.vscode/settings.json
+.vscode
+tools/synctool/synctool
+tools/synctool/lib/librocket.a
+tools/synctool/Debug
+tools/synctool/Release
+tools/synctool/packages
+tools/synctool/synctool.VC*
+tools/synctool/libbass.so
